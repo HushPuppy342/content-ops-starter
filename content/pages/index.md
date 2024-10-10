@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Play Video
         altText: ''
-        url: /
+        url: 'https://www.schoolbundle.ca/#'
         showIcon: true
         icon: arrowRight
         iconPosition: right
