@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Unified Communications Platform
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Effective, efficient and scalable communications at your fingertips. A
+      cloud-based content management solution for K-12 organizations.
     actions:
       - label: Get started
         altText: ''
